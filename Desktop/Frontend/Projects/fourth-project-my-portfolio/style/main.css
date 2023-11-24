@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1150px;
+}
